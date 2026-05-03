@@ -65,31 +65,82 @@ Email campaigns, outreach copy, landing page content, and sales messaging. I hav
 ## Work History
 
 **Senior Content Writer** — Transportvibe *(Aug 2025 – Present)*
-Long-form SEO and AEO content for a US auto transport platform. Train and manage entry-level writers. Handle publishing via Strapi CMS, metadata optimization, and internal linking.
+
+Responsible for building strategic, conversion-driven content for a U.S.-based transport platform.
+
+- Led content strategy aligned with customer intent, pricing clarity, and service positioning for long-distance transport solutions
+- Produced SEO-driven content that improved organic visibility and supported customer acquisition
+- Structured service and pricing pages to enhance user understanding and decision-making
+- Managed end-to-end content lifecycle (research, writing, editing, publishing) across CMS platforms
+- Collaborated with cross-functional teams to ensure accuracy, consistency, and brand alignment across all content
+- Maintained high editorial standards through structured content reviews and quality control processes
 
 **Social Media Strategist, B2B Copywriting** — Wilbur *(Mar 2024 – May 2025)*
-Wrote on-brand social copy that increased brand awareness by 25% and improved email click-through rates by 12%.
+Focused on aligning creative content with measurable business growth.
+
+- Led content initiatives for a portfolio of 100+ brands, aligning messaging with growth objectives
+- Created conversion-focused B2B copy for social media, improving engagement and lead quality
+- Executed campaigns that increased brand awareness by 25% for small business clients
+- Produced high-performing email and social content across Facebook and Instagram
+- Analyzed campaign performance to optimize content strategy and improve ROI
 
 **Executive, B2B SaaS Copywriter** — 10 Studio *(Jul 2023 – Feb 2024)*
-Outreach and marketing copy that secured 12 enterprise partnerships. Conversion-focused email campaigns that increased qualified leads by 20%.
+Worked on bridging the gap between technical solutions and business communication.
+
+- Created high-converting cold outreach campaigns that secured enterprise partnerships
+- Redesigned email marketing funnels, resulting in a 20% increase in qualified leads
+- Developed scripts for explainer videos to simplify complex SaaS offerings
+- Positioned technical services through clear, benefit-driven messaging
 
 **Executive, Content Marketing** — Backspace International Limited *(Dec 2021 – Feb 2024)*
-SEO-driven content aligned with user intent. Maintained a 95% SEO quality score under tight deadlines.
+Focused on improving content performance through SEO and user experience optimization.
+
+- Managed content ecosystems across multiple media tech platforms
+- Maintained 95%+ on-page SEO scores across 100+ articles, achieving first-page rankings
+- Improved website navigation and user flow through UX-focused content structuring
+- Increased cross-platform referral traffic by 30% through strategic content distribution
+- Created SEO-driven content aligned with user intent and search behavior
 
 **Senior Executive, Content Management and Business Dev.** — GOTMYHOST LLC *(Nov 2019 – Nov 2021)*
-Customer-focused content and onboarding materials. Increased customer satisfaction by 15% through clearer communication.
+Working towards aligning technical infrastructure with customer-facing communication.
+
+- Managed content and communication strategy for domain hosting products
+- Designed technical documentation and UX content to simplify onboarding processes
+- Launched a new product contributing to 10-month revenue growth
+- Improved customer satisfaction by 15% through clearer communication and service content
 
 **SEO Content Writer (Technical)** — CodeWatchers *(Mar 2020 – Mar 2025)*
-Produced 900+ technical guides repurposed into SEO-optimized articles, driving a 300% increase in organic traffic. Managed UX for 27,000+ monthly visitors.
+Specialized in translating complex technical concepts into accessible, high-performing content.
+
+- Managed full content lifecycle for high-traffic technical websites
+- Produced 900+ technical articles as a UX-focused SEO writer, improving accessibility for non-technical audiences
+- Increased organic traffic by 30%+ through structured SEO content strategies
+- Maintained consistent user experience across content serving 27,000+ monthly visitors
+- Simplified complex web development topics into clear, actionable content
 
 **Script Writer and Social Media Manager** — Business Inspection BD *(May 2022 – Dec 2022)*
-50+ video scripts that increased YouTube engagement by 20%. Consistent brand voice across social platforms.
+Focused on making financial and business content accessible to a broader audience.
+
+- Produced 50+ YouTube scripts, contributing to a 20% increase in channel growth
+- Translated complex financial insights into engaging, easy-to-understand narratives
+- Managed content planning and creative assets across multiple social platforms
+- Improved audience retention through structured storytelling and content clarity
 
 **Social Media Strategist** — MedAccess Hub *(Aug 2024 – Aug 2025)*
-Grew community follower count by 1,500 within one year through a structured content strategy.
+Led initiatives around simplifying complex healthcare information through accessible and engaging content.
+
+- Developed and executed social media strategies for a global healthcare audience
+- Transformed complex medical information into clear, user-friendly content formats
+- Improved accessibility and readability of healthcare resources through UX-focused writing
+- Collaborated with medical professionals to ensure 100% accuracy in technical content
+- Increased audience engagement through structured, insight-driven content planning
 
 **Web Content Writer** — Nahidrains Pictures *(Nov 2017 – Jan 2019)*
-100+ feature articles for lead generation. 25% increase in reader engagement through industry reporting.
+I developed advertising copy and feature articles for a high-volume media production house.
+
+- Produced 100+ feature articles as an SEO content writer to drive lead generation for advertising clients.
+- Collaborated with production teams as a content designer to align visual storytelling with brand messaging.
+- Generated a 25% increase in reader engagement through deep-dive industry reporting.
 
 ---
 
@@ -116,7 +167,7 @@ SEO Content Writing · AEO Copywriting · UX Writing · Social Media Copywriting
 Keyword Research · Audience Research · Content Architecture · Internal Linking Strategy · Metadata Optimization · Topical Authority Building
 
 **Tools**
-WordPress · Strapi CMS · Google Workspace · Canva · ChatGPT · Microsoft Office
+WordPress · Strapi CMS · Google Workspace · Canva · ChatGPT · Microsoft Office · SEMrush 
 
 **Collaboration**
 Cross-team writing workflows · Entry-level writer training · Campaign execution with design and sales teams
