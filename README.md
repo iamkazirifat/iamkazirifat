@@ -1,6 +1,6 @@
-<h1 align="center"># Kazi MD. Arafat Rahaman</h1>
+<h1 align="center">Kazi MD. Arafat Rahaman</h1>
 
-<h3 align="center">**SEO Content Writer · UX Writer · Social Media Copywriter**</h3>
+<h3 align="center">SEO Content Writer · UX Writer · Social Media Copywriter</h3>
 
 <p align="center">7+ years writing content that ranks, reads well, and moves people toward a decision.</p>
 
