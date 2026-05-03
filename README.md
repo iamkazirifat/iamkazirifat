@@ -1,12 +1,20 @@
-# Kazi MD. Arafat Rahaman #
+<h1 align="center"># Kazi MD. Arafat Rahaman</h1>
 
-**SEO Content Writer · UX Writer · Social Media Copywriter**
+<h3 align="center">**SEO Content Writer · UX Writer · Social Media Copywriter**</h3>
 
-8+ years writing content that ranks, reads well, and moves people toward a decision.
+<p align="center">7+ years writing content that ranks, reads well, and moves people toward a decision.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamkazirifat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamkazirifat/)
-[![Email](https://img.shields.io/badge/Email-iamkazirifat@gmail.com-red?style=flat&logo=gmail)](mailto:iamkazirifat@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-black?style=flat)](https://iamkazirifat.com/new/portfolio/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamkazirifat/">
+    <img src="https://img.shields.io/badge/LinkedIn-iamkazirifat-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:iamkazirifat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iamkazirifat@gmail.com-red?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-black?style=flat" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
@@ -161,7 +169,7 @@ Open to freelance projects in tech, transportation, healthcare, cybersecurity, a
 
 ## Education
 
-B.Sc in Computer Science and Engineering — Daffodil International University [Graduated in 2017]
+B.Sc in Computer Science and Engineering — Daffodil International University
 
 ---
 
