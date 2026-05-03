@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamkazirifat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamkazirifat/)
 [![Email](https://img.shields.io/badge/Email-iamkazirifat@gmail.com-red?style=flat&logo=gmail)](mailto:iamkazirifat@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-black?style=flat)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-black?style=flat)](https://iamkazirifat.com/new/portfolio/)
 
 ---
 
@@ -161,7 +161,7 @@ Open to freelance projects in tech, transportation, healthcare, cybersecurity, a
 
 ## Education
 
-B.Sc in Computer Science and Engineering — Daffodil International University
+B.Sc in Computer Science and Engineering — Daffodil International University [Graduated in 2017]
 
 ---
 
