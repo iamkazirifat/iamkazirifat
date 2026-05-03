@@ -76,6 +76,7 @@ Responsible for building strategic, conversion-driven content for a U.S.-based t
 - Maintained high editorial standards through structured content reviews and quality control processes
 
 **Social Media Strategist, B2B Copywriting** — Wilbur *(Mar 2024 – May 2025)*
+
 Focused on aligning creative content with measurable business growth.
 
 - Led content initiatives for a portfolio of 100+ brands, aligning messaging with growth objectives
@@ -85,6 +86,7 @@ Focused on aligning creative content with measurable business growth.
 - Analyzed campaign performance to optimize content strategy and improve ROI
 
 **Executive, B2B SaaS Copywriter** — 10 Studio *(Jul 2023 – Feb 2024)*
+
 Worked on bridging the gap between technical solutions and business communication.
 
 - Created high-converting cold outreach campaigns that secured enterprise partnerships
@@ -93,6 +95,7 @@ Worked on bridging the gap between technical solutions and business communicatio
 - Positioned technical services through clear, benefit-driven messaging
 
 **Executive, Content Marketing** — Backspace International Limited *(Dec 2021 – Feb 2024)*
+
 Focused on improving content performance through SEO and user experience optimization.
 
 - Managed content ecosystems across multiple media tech platforms
@@ -102,6 +105,7 @@ Focused on improving content performance through SEO and user experience optimiz
 - Created SEO-driven content aligned with user intent and search behavior
 
 **Senior Executive, Content Management and Business Dev.** — GOTMYHOST LLC *(Nov 2019 – Nov 2021)*
+
 Working towards aligning technical infrastructure with customer-facing communication.
 
 - Managed content and communication strategy for domain hosting products
@@ -110,6 +114,7 @@ Working towards aligning technical infrastructure with customer-facing communica
 - Improved customer satisfaction by 15% through clearer communication and service content
 
 **SEO Content Writer (Technical)** — CodeWatchers *(Mar 2020 – Mar 2025)*
+
 Specialized in translating complex technical concepts into accessible, high-performing content.
 
 - Managed full content lifecycle for high-traffic technical websites
@@ -119,6 +124,7 @@ Specialized in translating complex technical concepts into accessible, high-perf
 - Simplified complex web development topics into clear, actionable content
 
 **Script Writer and Social Media Manager** — Business Inspection BD *(May 2022 – Dec 2022)*
+
 Focused on making financial and business content accessible to a broader audience.
 
 - Produced 50+ YouTube scripts, contributing to a 20% increase in channel growth
@@ -127,6 +133,7 @@ Focused on making financial and business content accessible to a broader audienc
 - Improved audience retention through structured storytelling and content clarity
 
 **Social Media Strategist** — MedAccess Hub *(Aug 2024 – Aug 2025)*
+
 Led initiatives around simplifying complex healthcare information through accessible and engaging content.
 
 - Developed and executed social media strategies for a global healthcare audience
@@ -136,6 +143,7 @@ Led initiatives around simplifying complex healthcare information through access
 - Increased audience engagement through structured, insight-driven content planning
 
 **Web Content Writer** — Nahidrains Pictures *(Nov 2017 – Jan 2019)*
+
 I developed advertising copy and feature articles for a high-volume media production house.
 
 - Produced 100+ feature articles as an SEO content writer to drive lead generation for advertising clients.
